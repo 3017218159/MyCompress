@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<presentation>
+	<properties>
+		<publisher>北京网梯科技发展有限公司</publisher>
+		<publisherURL>http://www.whaty.com</publisherURL>
+		<version>5.0.7.1</version>
+		<serialCode>default</serialCode>
+		<userName><![CDATA[]]></userName>
+		<title><![CDATA[压缩软件演示]]></title>
+		<creationdate>2019-06-08 23:23:44</creationdate>
+		<totaltime>00:01:11</totaltime>
+		<video><![CDATA[]]></video>
+		<screen><![CDATA[001/data/screen.mp4]]></screen>
+		<screenmobile><![CDATA[data/screen_mobile.mp4]]></screenmobile>
+		<videocloud><![CDATA[]]></videocloud>
+		<screencloud><![CDATA[]]></screencloud>
+		<screenmobilecloud><![CDATA[]]></screenmobilecloud>
+		<caption><![CDATA[]]></caption>
+		<type>4</type>
+		<powerpointfile>01.ppt</powerpointfile>
+		<copyright><![CDATA[]]></copyright>
+	</properties>
+	<presenter>
+		<name><![CDATA[李琛]]></name>
+		<company><![CDATA[]]></company>
+		<phone><![CDATA[]]></phone>
+		<email><![CDATA[]]></email>
+	</presenter>
+	<slides />
+	<chapters />
+</presentation>

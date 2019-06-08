@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<config>
+	<global>
+		<video_type>jml</video_type>
+		<barrier_free>false</barrier_free>
+		<show_hidden>false</show_hidden>
+		<rec_hidden>false</rec_hidden>
+		<video_pos_right>false</video_pos_right>
+		<is_test>false</is_test>
+	</global>
+	<scorm>
+		<type>single</type>
+		<commit_interval>5</commit_interval>
+		<pass_percent>0.7</pass_percent>
+	</scorm>
+	<navigates>
+		<navigate>
+			<path>001</path>
+			<type>4</type>
+			<scoId>A100</scoId>
+			<duration>00:01:11</duration>
+			<title><![CDATA[压缩软件演示]]></title>
+		</navigate>
+	</navigates>
+</config>
